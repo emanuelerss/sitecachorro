@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+.card{
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.letra{
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 36.5%;
+    margin-top: 5%;
+}
